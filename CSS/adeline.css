@@ -1,11 +1,31 @@
 
-h1{color: blueviolet;
+
+
+h1{color: rgb(43, 67, 226);
     display: block;
     margin-right: auto;
     margin-left: auto;}
+head{
+    color: aquamarine;
+}
+    h2{
+        color: rgb(17, 16, 15);
+        display: block;
+        margin-right: auto;
+        margin-left: auto; 
+    }
+    fieldset{
+        padding: 20px;
+    }
 
+}
+ h3{
+    color: chocolate;
+ }
   
-   
+ fieldset{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }  
    
   img{
     border-image-slice: 100px;
@@ -13,7 +33,7 @@ h1{color: blueviolet;
     margin-right: auto;
     margin-left: auto;    
   }
- 
+
 
 
     
