@@ -1,17 +1,19 @@
 
-h1{color: blueviolet;}
+h1{color: blueviolet;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;}
 
   
    
    
   img{
-    border-image-slice: 50px;
+    border-image-slice: 100px;
     display: block;
     margin-right: auto;
-    margin-left: auto;
-
-    
+    margin-left: auto;    
   }
+ 
 
 
     
