@@ -7,7 +7,10 @@ h1{color: rgb(43, 67, 226);
     text-align: center;
     display: block;
     margin-right: auto;
-    margin-left: auto;}
+    margin-left: auto;
+    font-weight: 600;
+font-style:oblique;}
+
 head{
     color: aquamarine;
 }
