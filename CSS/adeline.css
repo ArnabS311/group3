@@ -1,5 +1,5 @@
 body {
-    background-color: lavender;
+    background-color: rgb(247, 247, 253);
 }
 
 
@@ -13,11 +13,12 @@ head{
 }
     h2{
         text-align: center;
-        border-image-slice: 100px;
+        border-image-slice: 300px;
         display: block;
         margin-right: auto;
         margin-left: auto;
         font-size: xx-large;
+        text-decoration: double;
     }
     fieldset{
         padding: 20px;
