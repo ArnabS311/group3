@@ -1,0 +1,146 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  width: 600px;
+  height: 314px;
+  position: relative;
+}
+
+.frame .rectangle-wrapper {
+  position: absolute;
+  width: 115px;
+  height: 150px;
+  top: 121px;
+  left: 11px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 115px;
+  height: 148px;
+  top: 2px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 263px;
+  height: 148px;
+  top: 123px;
+  left: 127px;
+}
+
+.frame .elisa-KUSTER {
+  position: absolute;
+  width: 157px;
+  top: 25px;
+  left: 12px;
+  font-family: "Barlow Condensed-Regular", Helvetica;
+  font-weight: 400;
+  color: #214752;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper {
+  font-family: "Barlow Condensed-Regular", Helvetica;
+  font-weight: 400;
+  color: #214752;
+  font-size: 28px;
+  letter-spacing: 0;
+}
+
+.frame .span {
+  font-family: "Barlow Condensed-SemiBold", Helvetica;
+  font-weight: 600;
+}
+
+.frame .div-wrapper {
+  position: absolute;
+  width: 183px;
+  height: 37px;
+  top: 91px;
+  left: 0;
+  background-color: #caa367;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 131px;
+  top: 6px;
+  left: 26px;
+  font-family: "Barlow Condensed-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .div-3 {
+  position: absolute;
+  width: 69px;
+  height: 54px;
+  top: 80px;
+  left: 187px;
+  background-image: url(https://c.animaapp.com/5wRHN8Es/img/rectangle-9@2x.png);
+  background-size: 100% 100%;
+}
+
+.frame .elisa-kuster-icordis-wrapper {
+  position: absolute;
+  width: 151px;
+  height: 142px;
+  top: 126px;
+  left: 391px;
+  background-color: #ffffff;
+}
+
+.frame .elisa-kuster-icordis {
+  position: absolute;
+  width: 136px;
+  top: 11px;
+  left: 8px;
+  font-family: "Barlow Condensed-Regular", Helvetica;
+  font-weight: 400;
+  color: #214752;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .line {
+  width: 558px;
+  top: 103px;
+  left: 11px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.frame .img {
+  width: 501px;
+  top: 81px;
+  left: 36px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.frame .line-2 {
+  width: 600px;
+  top: 286px;
+  left: 0;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
