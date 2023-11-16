@@ -4,10 +4,14 @@ body {
 
 
 h1{color: rgb(43, 67, 226);
+    font-weight: 600;
     text-align: center;
     display: block;
     margin-right: auto;
-    margin-left: auto;}
+    margin-left: auto;
+font-style:oblique;
+text-align: center;}
+
 head{
     color: aquamarine;
 }
