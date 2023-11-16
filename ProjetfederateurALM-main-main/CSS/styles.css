@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+    background-color: rgb(141, 223, 229);
+    color: #6a55e3;
+  }
+
+a {
+    text-decoration: none;
+    color:  black;
+    font-size: 1em;
+    font-family: Manrope;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header, footer {
+    background-color: #1f9fa8;
+    padding: 20px;
+}
+
+nav, footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav a {
+    margin: 20px;
+}
