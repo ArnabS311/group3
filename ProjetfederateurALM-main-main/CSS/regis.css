@@ -21,6 +21,12 @@
     
     } 
     
+    a:-webkit-any-link {
+      color: purple;
+      cursor: pointer;
+      text-decoration: none;
+  }
+
     .carte{ 
      width: 90%; 
      max-width: 440px; 
